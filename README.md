@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate DevOps Engineer</h3>
 
 - 📫 How to reach me **moonishaider12@gmail.com**
+- <a href="https://github.com/moonishaider/Devops-Course-Sp24">Summary of what i learned in Devops course</a>
 - Checkout my <a href="https://github.com/moonishaider/Cv">CV</a>
 
 <h3 align="left">Connect with me:</h3>
