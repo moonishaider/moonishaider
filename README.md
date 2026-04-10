@@ -10,7 +10,7 @@ Gemini said
 
 📂 Check out my AI/ML Portfolio for deep-dives into Agentic RAG and Computer Vision
 
-📝 Explore my CV
+📝 Explore my projects and portfolio at https://moonishaider.github.io/
 
 <h3 align="left">Core AI & ML Projects:</h3>
 
