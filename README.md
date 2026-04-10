@@ -1,4 +1,4 @@
-Gemini said
+
 <h1 align="center">Hi 👋, I'm Syed Moonis Haider</h1>
 <h3 align="center">AI/ML & Agentic Systems Engineer</h3>
 
