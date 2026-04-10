@@ -50,4 +50,4 @@ Flight Route Optimization: Leveraging Genetic Algorithms for real-time fuel and 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonishaider&show_icons=true&locale=en" alt="moonishaider" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonishaider&" alt="moonishaider" /></p>
+
